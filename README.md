@@ -1,7 +1,8 @@
 # 🧠 Neural-Network-Number-Predictor  
 
-🎯 **AI-Powered Number Prediction Game**  
+🎯 **Number Prediction Model from scratch**  
 > A simple yet smart number guessing model powered by a static trained neural network — blending fun with machine learning.
+> Being made from scratch, it has allowed me to better grasp the fundamentals of Neural Networks and training algorithms.
 
 ---
 
@@ -13,23 +14,13 @@ https://github.com/user-attachments/assets/308f9a21-daf6-4594-80b5-9949c77393d2
 ---
 
 ## 🛠️ Features  
-- 🤖 Trained neural network to predict numbers  
+- 🤖 Trained neural network to predict numbers built and trained without libraries
 - 🎮 Interactive CLI 
 - 🧪 Supports retraining or fine-tuning
 
 ---
 
-## 🧠 Tech Stack  
-- **Language**: Python  
-- **Libraries**: NumPy, TensorFlow / PyTorch (choose one), scikit-learn  
+## 📦 Tech Stack  
+- **Language**: C++  
+- **Libraries**: NumPy, PyTorch 
 - **Interface**: CLI / Tkinter / Streamlit (based on your UI)
-
----
-
-## 🚀 Getting Started  
-
-### 🔧 Setup  
-```bash
-git clone https://github.com/yourusername/neural-network-number-predictor.git  
-cd neural-network-number-predictor  
-pip install -r requirements.txt  
