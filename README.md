@@ -16,7 +16,7 @@ https://github.com/user-attachments/assets/308f9a21-daf6-4594-80b5-9949c77393d2
 ## 🛠️ Features  
 - 🤖 Trained neural network model to predict numbers (built and trained by me without libraries)
 - 🎮 Interactive CLI 
-- 🧪 Supports retraining or fine-tuning
+- 🧪 Supports retraining or fine-tuning by tweaking its network architecture
 
 ---
 
