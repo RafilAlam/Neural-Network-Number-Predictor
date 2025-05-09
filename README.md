@@ -22,5 +22,5 @@ https://github.com/user-attachments/assets/308f9a21-daf6-4594-80b5-9949c77393d2
 
 ## 📦 Tech Stack  
 - **Language**: C++  
-- **Libraries**: NumPy, PyTorch 
-- **Interface**: CLI / Tkinter / Streamlit (based on your UI)
+- **Libraries**: None (Built from ground-up) 
+- **Interface**: CLI
