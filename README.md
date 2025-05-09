@@ -1,7 +1,7 @@
 # 🧠 Neural-Network-Number-Predictor  
 
 🎯 **Number Prediction Model from scratch**  
-> A simple yet smart number guessing model powered by a static trained neural network that tries it's best to predict what number you type — blending fun with machine learning.
+> A simple yet smart number guessing model powered by a trained static neural network that tries it's best to predict what number you type — blending fun with machine learning.
 > Being made from scratch, it has allowed me to better grasp the fundamentals of Neural Networks and training algorithms.
 
 ---
